@@ -18,3 +18,4 @@ Key differences in weather between June and December
 ![December_Temps_Histogram](https://user-images.githubusercontent.com/100816778/168240817-af6bbf76-990c-48c0-a587-75ddf7a9fe80.png)
 
 ## Summary
+The data shows that the temperature and precipitation in Oahu, Hawaii is conducive to opening a successful surf and ice cream shop.  

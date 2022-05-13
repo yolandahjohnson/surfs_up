@@ -18,3 +18,6 @@ Key differences in weather between June and December
 ![December_Temps_Histogram](https://user-images.githubusercontent.com/100816778/168240817-af6bbf76-990c-48c0-a587-75ddf7a9fe80.png)
 
 ## Summary
+The data shows that the temperature and precipitation in Oahu, Hawaii is conducive to opening a successful surf and ice cream shop. With a minimal 4°F difference between the average June and December, the temperature is consistent enough to attract surefers and ice cream eaters alike. Additionally, the difference in average percipitation in June and December is approximately 0.08 inches. The data shows that the maximum percipitation in December is approximately 2 inches more than in June which measures almost 4.5 inches. The standard deviation in both months is less than 0.5 inches.
+
+![June_December_Prcp_summary_statistics](https://user-images.githubusercontent.com/100816778/168381910-8da76173-4e87-4ad9-a9f4-1bf2044eed58.png)
